@@ -1,10 +1,26 @@
 html,
 body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   height: 100%;
   margin: 0;
   padding: 0;
 }
+h1,
+h4 {
+    color: #e65019;
+}
 
+.btn {
+    background-color: #e65019;
+}
+
+.navbar {
+    background-color: #e65019;
+}
+
+.navbar-brand {
+    color: #4c00fff3;
+}
 .save-note {
   display: none;
 }
@@ -18,10 +34,15 @@ body {
 
 .note-textarea,
 .note-title {
-  color: #000000;
+  color: #e65019;
   width: 100%;
   outline: none;
   border: none;
+}
+
+.note-textarea::placeholder,
+.note-title::placeholder {
+    color: rgba(103, 8, 255, 0.756);
 }
 
 .note-textarea {
@@ -38,7 +59,7 @@ body {
 
 .note-title:read-only,
 .note-textarea:read-only {
-  color: #757575;
+  color: #e65019;
 }
 
 .list-container .card {
@@ -61,6 +82,7 @@ body {
 }
 
 .list-item-title {
+  color: #e65019;
   display: inline-block;
   width: 75%;
 }
