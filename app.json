@@ -1,0 +1,10 @@
+{
+    "name": "Note Taker",
+    "description": "Note Taking App using Express",
+    "repository": "https://github.com/chunngaimo/noteTakerWithExpress",
+    "keywords": [
+    "node",
+    "express",
+    "notes"
+    ]
+    }
