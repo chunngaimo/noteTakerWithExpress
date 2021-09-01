@@ -44,7 +44,7 @@ An application that allows the user to write and save notes using an Express.js 
 ## Links
 
 - [GitHub Repository](https://github.com/chunngaimo/noteTakerWithExpress)
-- [Deployed Application](https://boiling-inlet-15095.herokuapp.com/notes)
+- [Deployed Application](https://boiling-inlet-15095.herokuapp.com)
 
 -------------------------
 
