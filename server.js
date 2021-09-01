@@ -10,6 +10,8 @@ app.use(express.static(__dirname));
 app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);
 
-app.listen(PORT, () => {
-    console.log(`Now listening on PORT: ${PORT}`);
-});
+let port = process.env.PORT;
+if (port == null || port == "") {
+  port = 8000;
+}
+app.listen(port);

@@ -44,7 +44,7 @@ An application that allows the user to write and save notes using an Express.js 
 ## Links
 
 - [GitHub Repository](https://github.com/chunngaimo/noteTakerWithExpress)
-- [Deployed Application]()
+- [Deployed Application](https://boiling-inlet-15095.herokuapp.com/notes)
 
 -------------------------
 
@@ -70,6 +70,7 @@ An application that allows the user to write and save notes using an Express.js 
 ## Credits
 
 - Professor Google [Google](https://www.google.com/)
+- AskBCS
 
 -------------------------
 
@@ -103,7 +104,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
--------------------------
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
