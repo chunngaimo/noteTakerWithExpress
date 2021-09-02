@@ -63,7 +63,9 @@ An application that allows the user to write and save notes using an Express.js 
 
 3. Type in your note's title and text on the right-side of the screen.
 
-4. Click the Save icon in the navigation bar in the top right of the screen.
+4. Click the Save icon in the navigation bar in the top right of the screen to save notes.
+
+5. Click the Delete icon in the navigation bar in the top right of the screen to delete notes
 
 -------------------------
 
