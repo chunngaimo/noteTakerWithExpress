@@ -70,14 +70,12 @@ An application that allows the user to write and save notes using an Express.js 
 ## Credits
 
 - Professor Google [Google](https://www.google.com/)
-- AskBCS
 
 -------------------------
 
 ## Questions
 
 Feel free to ask any questions and contact me at wjy16888888@gmail.com. 
-GitHub repo link [Github](https://github.com/chunngaimo/noteTakerWithExpress)
 
 -------------------------
 
